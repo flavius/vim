@@ -2,8 +2,8 @@
 	path = pack/visuals/start/dracula
 	url = https://github.com/dracula/vim.git
 [submodule "pack/visuals/opt/vim-airline"]
-	path = pack/visuals/opt/vim-airline
+	path = pack/visuals/start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
 [submodule "pack/visuals/opt/vim-airline-themes"]
-	path = pack/visuals/opt/vim-airline-themes
+	path = pack/visuals/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
