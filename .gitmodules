@@ -7,3 +7,9 @@
 [submodule "pack/visuals/opt/vim-airline-themes"]
 	path = pack/visuals/start/vim-airline-themes
 	url = https://github.com/vim-airline/vim-airline-themes.git
+[submodule "pack/visuals/start/vim-devicons"]
+	path = pack/visuals/opt/vim-devicons
+	url = https://github.com/ryanoasis/vim-devicons.git
+[submodule "pack/visuals/start/vim-indentguides"]
+	path = pack/visuals/start/vim-indentguides
+	url = https://github.com/thaerkh/vim-indentguides.git
