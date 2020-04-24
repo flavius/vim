@@ -13,3 +13,9 @@
 [submodule "pack/visuals/start/vim-indentguides"]
 	path = pack/visuals/start/vim-indentguides
 	url = https://github.com/thaerkh/vim-indentguides.git
+[submodule "pack/tools/start/nerdtree"]
+	path = pack/tools/start/nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "pack/tools/start/nerdtree-git-plugin"]
+	path = pack/tools/start/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
