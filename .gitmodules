@@ -19,3 +19,12 @@
 [submodule "pack/tools/start/nerdtree-git-plugin"]
 	path = pack/tools/start/nerdtree-git-plugin
 	url = https://github.com/Xuyuanp/nerdtree-git-plugin.git
+[submodule "pack/tools/start/vim-eunuch"]
+	path = pack/tools/start/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule "pack/tools/start/ctrlp.vim"]
+	path = pack/tools/start/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim.git
+[submodule "pack/tools/start/vim-localvimrc"]
+	path = pack/tools/start/vim-localvimrc
+	url = https://github.com/embear/vim-localvimrc.git
