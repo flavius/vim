@@ -28,3 +28,48 @@
 [submodule "pack/tools/start/vim-localvimrc"]
 	path = pack/tools/start/vim-localvimrc
 	url = https://github.com/embear/vim-localvimrc.git
+[submodule "pack/languages/opt/xonsh-vim"]
+	path = pack/languages/opt/xonsh-vim
+	url = https://github.com/linkinpark342/xonsh-vim.git
+[submodule "pack/tools/start/vim-unimpaired"]
+	path = pack/tools/start/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "pack/tools/start/vim-surround"]
+	path = pack/tools/start/vim-surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "pack/tools/start/vim-startify"]
+	path = pack/tools/start/vim-startify
+	url = https://github.com/mhinz/vim-startify.git
+[submodule "pack/languages/start/vim-polyglot"]
+	path = pack/languages/start/vim-polyglot
+	url = https://github.com/sheerun/vim-polyglot.git
+[submodule "pack/tools/start/vim-pasta"]
+	path = pack/tools/start/vim-pasta
+	url = https://github.com/sickill/vim-pasta.git
+[submodule "pack/tools/start/vim-fugitive"]
+	path = pack/tools/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "pack/languages/start/phpfolding.vim"]
+	path = pack/languages/start/phpfolding.vim
+	url = https://github.com/rayburgemeestre/phpfolding.vim.git
+[submodule "pack/tools/start/vim-repeat"]
+	path = pack/tools/start/vim-repeat
+	url = https://github.com/tpope/vim-repeat.git
+[submodule "pack/tools/start/taboo.vim"]
+	path = pack/tools/start/taboo.vim
+	url = https://github.com/gcmt/taboo.vim.git
+[submodule "pack/tools/start/undotree"]
+	path = pack/tools/start/undotree
+	url = https://github.com/mbbill/undotree.git
+[submodule "pack/tools/start/vim-dirdiff"]
+	path = pack/tools/start/vim-dirdiff
+	url = https://github.com/will133/vim-dirdiff.git
+[submodule "pack/tools/start/vim-floaterm"]
+	path = pack/tools/start/vim-floaterm
+	url = https://github.com/voldikss/vim-floaterm.git
+[submodule "pack/tools/start/vim-ripgrep"]
+	path = pack/tools/start/vim-ripgrep
+	url = https://github.com/jremmen/vim-ripgrep.git
+[submodule "pack/tools/start/vim-signify"]
+	path = pack/tools/start/vim-signify
+	url = https://github.com/mhinz/vim-signify.git
