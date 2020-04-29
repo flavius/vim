@@ -76,3 +76,6 @@
 [submodule "pack/tools/start/argtextobj.vim"]
 	path = pack/tools/start/argtextobj.vim
 	url = https://github.com/inkarkat/argtextobj.vim.git
+[submodule "pack/tools/start/vim-auto-mkdir"]
+	path = pack/tools/start/vim-auto-mkdir
+	url = https://github.com/travisjeffery/vim-auto-mkdir.git
