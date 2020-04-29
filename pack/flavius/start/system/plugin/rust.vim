@@ -1,0 +1,2 @@
+let $PATH .= '~/.cargo/bin'
+

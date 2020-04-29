@@ -1,0 +1,28 @@
+" " do stuff you want to do on every buffer enter event
+"   
+" " guard to end loading if it has been loaded for the currently edited file
+" if g:localvimrc_sourced_once_for_file
+"     finish
+" endif
+" 
+" " do stuff you want to do only once for a edited file
+" " guard to end loading if it has been loaded for the running vim instance
+" if g:localvimrc_sourced_once
+"     finish
+" endif
+"   
+" " do stuff you want to do only once for a running vim instance
+" let g:ctrlp_match_func = { 'match': 'Function_Name' }
+" function! Function_Name(items, str, limit, mmode, ispath, crfile, regex)
+"     echom 'searching for' . str
+"     "return ['items: ' . string(items), 'str: ' . str, 'limit: ' . string(limit), 'mmode: ' . mmode, 'ispath' . string(ispath), 'crfile: ' .  string(crfile) . ' regex: ' . string(regex): ]
+"     let result = []
+"     for item in a:items
+"         if stridx(item, 'flavius') != -1
+"             let result = add(result, item)
+"         endif
+"     endfor
+" 
+"     echom string(['str: ' . a:str, 'items: ' . string(a:items), 'limit: ' . string(a:limit), 'mmode: ' . string(a:mmode)])
+"     return result
+" endfunction

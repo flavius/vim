@@ -9,10 +9,6 @@ set packpath-=~/.vim packpath-=~/.vim/after packpath-=~/vimfiles packpath-=~/vim
 silent execute 'set runtimepath^=' . g:VIMDIR
 silent execute 'set packpath^=' . g:VIMDIR
 
-let mapleader=','
-let maplocaleader='\\'
 let $MYVIMRC=g:VIMDIR . '/.vimrc'
 
-nnoremap <Leader>ev :vsplit $MYVIMRC<cr>
-nnoremap <Leader>sv :source $MYVIMRC<cr>
-
+" packadd! vim-devicons in visuals/after/

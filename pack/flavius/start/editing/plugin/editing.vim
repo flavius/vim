@@ -1,0 +1,11 @@
+set tabstop=8
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set autoindent
+set fileencodings=utf-8
+set encoding=utf-8
+set nojoinspaces
+set noswapfile
+set hidden
+set pastetoggle=<F2>
