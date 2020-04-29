@@ -73,3 +73,6 @@
 [submodule "pack/tools/start/vim-signify"]
 	path = pack/tools/start/vim-signify
 	url = https://github.com/mhinz/vim-signify.git
+[submodule "pack/tools/start/argtextobj.vim"]
+	path = pack/tools/start/argtextobj.vim
+	url = https://github.com/inkarkat/argtextobj.vim.git
