@@ -11,6 +11,7 @@ nnoremap <Leader>sv :source $MYVIMRC<cr>
 vnoremap J :m '>+1<cr>gv=gv
 vnoremap K :m '<-2<cr>gv=gv
 
-nnoremap <Leader>bn :call TabHistoryNext()
-nnoremap <Leader>bp :call TabHistoryPrev()
-nnoremap <Leader>bl :call TabHistoryList()
+nnoremap <Leader>tn TabHistoryGotoNext
+nnoremap <Leader>tp TabHistoryGotoPrev
+nnoremap <Leader>tc TabHistoryClear
+nnoremap <Leader>tl TabHistoryList
