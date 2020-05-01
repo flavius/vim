@@ -8,4 +8,4 @@ let g:ctrlp_extensions = ['tag']
 let g:ctrlp_working_path_mode = 'd'
 
 " ctrlp
-let g:ctrlp_cache_dir = s:root . '/tmp/ctrlp-cache'
+let g:ctrlp_cache_dir = g:VIMDIR . '/tmp/ctrlp-cache'

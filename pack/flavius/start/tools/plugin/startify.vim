@@ -1,4 +1,4 @@
-let g:startify_session_dir = s:root . '/session'
+let g:startify_session_dir = g:VIMDIR . '/session'
 let g:startify_lists = [
       \ { 'type': 'sessions',  'header': ['   Sessions']       },
       \ { 'type': 'bookmarks', 'header': ['   Bookmarks']      },
