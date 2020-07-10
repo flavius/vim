@@ -11,7 +11,7 @@ nnoremap <Leader>sv :source $MYVIMRC<cr>
 vnoremap J :m '>+1<cr>gv=gv
 vnoremap K :m '<-2<cr>gv=gv
 
-nnoremap <Leader>tn TabHistoryGotoNext
-nnoremap <Leader>tp TabHistoryGotoPrev
-nnoremap <Leader>tc TabHistoryClear
-nnoremap <Leader>tl TabHistoryList
+nnoremap <silent> <Leader>tn :TabHistoryGotoNext<CR>
+nnoremap <silent> <Leader>tp :TabHistoryGotoPrev<CR>
+nnoremap <silent> <Leader>tc :TabHistoryClear<CR>
+nnoremap <silent> <Leader>tl :TabHistoryList<CR>
