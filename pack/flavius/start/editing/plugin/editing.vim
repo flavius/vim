@@ -3,7 +3,7 @@ set shiftwidth=4
 set softtabstop=4
 set expandtab
 set autoindent
-set fileencodings=utf-8
+set fileencodings=ucs-bom,utf-8,latin1
 set encoding=utf-8
 set nojoinspaces
 set noswapfile

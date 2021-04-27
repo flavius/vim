@@ -15,3 +15,4 @@ nnoremap <silent> <Leader>tn :TabHistoryGotoNext<CR>
 nnoremap <silent> <Leader>tp :TabHistoryGotoPrev<CR>
 nnoremap <silent> <Leader>tc :TabHistoryClear<CR>
 nnoremap <silent> <Leader>tl :TabHistoryList<CR>
+nnoremap <silent> <Leader>e :e ++enc=latin1<CR>
