@@ -53,7 +53,7 @@ set viewoptions-=options " avoid problems with cwd"
 " }
 " GUI {
     if has('gui_running')
-        set guifont=DroidSansMonoNerdFontComplete-:h10
+        set guifont=DroidSansMono\ Nerd\ Font\ 10
         set guioptions-=T " no toolbars
         set guioptions+=LlRrb guioptions-=LlRrb " no scrollbars
     endif
