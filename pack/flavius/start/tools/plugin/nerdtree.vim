@@ -10,7 +10,7 @@ let NERDTreeShowHidden=1
 nnoremap <silent> <C-n> :NERDTreeToggle<CR>
 nnoremap <silent> <C-j> :NERDTreeFind<CR>
 
-let g:NERDTreeIndicatorMapCustom = {
+let g:NERDTreeGitStatusIndicatorMapCustom = {
     \ "Modified"  : "✹",
     \ "Staged"    : "✚",
     \ "Untracked" : "✭",
