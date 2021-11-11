@@ -83,5 +83,5 @@
 	path = pack/vimdev/start/vim-testify
 	url = https://github.com/dhruvasagar/vim-testify.git
 [submodule "pack/tools/start/ultisnips"]
-	path = pack/tools/start/ultisnips
+	path = pack/tools/opt/ultisnips
 	url = https://github.com/SirVer/ultisnips.git
