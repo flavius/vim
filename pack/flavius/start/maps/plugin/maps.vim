@@ -46,6 +46,3 @@ nnoremap <expr> j (v:count > 5 ? "m'" . v:count : "") . 'j'
 " moving text
 vnoremap J :m '>+1<cr>gv=gv
 vnoremap K :m '<-2<cr>gv=gv
-
-function a
-endfunction
